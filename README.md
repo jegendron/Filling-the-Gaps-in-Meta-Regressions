@@ -2,7 +2,7 @@
 
 >Note: This repository corresponds to Chapter 4 of the following dissertation:
 
-### What the R Code Does
+### What the Python Code Does
 - Runs two simulations generating data with: 1) **study** heterogeneity 2) joint heterogeneity in **location** and **time**
 - Tests nine imputation approaches: three parametric, two tree-based, and four deep-learning
 - Calculates estimator bias, MSE, power, and CI coverage
@@ -21,7 +21,7 @@
 
 This follows the same design of our previous work, but the key difference is in the data generation (https://github.com/jegendron/Evaluating-Meta-Regression-Techniques-A-Simulation-Study-on-Heterogeneity-in-Location-and-Time)
 
-Note that the full code is attached separately, and although Simulation 1 and 2 have a lot of overlap, they are shown separately due to their different groupings.
+Note that the full code is attached separately (v1 = Simulation 1, s2 = Simulation 2), and although Simulation 1 and 2 have a lot of overlap, they are shown separately due to their different groupings.
 
 #### Data Generation - Simulation 1 (Joint Location-Time Heterogeneity)
 ```
