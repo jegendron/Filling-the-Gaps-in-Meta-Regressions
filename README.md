@@ -21,7 +21,7 @@
 
 This follows the same design of our previous work, but the key difference is in the data generation (https://github.com/jegendron/Evaluating-Meta-Regression-Techniques-A-Simulation-Study-on-Heterogeneity-in-Location-and-Time)
 
-
+Note that the full code is attached separately, and although Simulation 1 and 2 have a lot of overlap, they are shown separately due to their different groupings.
 
 #### Data Generation - Simulation 1 (Joint Location-Time Heterogeneity)
 ```
